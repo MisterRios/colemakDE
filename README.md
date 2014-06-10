@@ -13,4 +13,5 @@ The transfer of the < > keys to the upper right pinky instead of lower left pink
 
 
 
-The two files avaliable are a keyboard file for Mac, and an AutoHotKey remapper, which I use on Windows.
+The files avaliable are a keyboard file for Mac, an AutoHotKey remapper, which I use on Windows, 
+and a xkb file for adding into/usr/share/X11/xkb/symbols/de in ubuntu.
