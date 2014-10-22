@@ -1,0 +1,16 @@
+<layout>
+  <configItem>
+    <name>de</name>
+    <shortDescription>coDE</shortDescription>
+    <description>ColemakDE</description>
+    <languageList><iso639Id>de</iso639Id></languageList>
+  </configItem>
+  <variantList>
+    <variant>
+      <configItem>
+        <name>colemakde</name>
+        <description>ColemakDE</description>
+      </configItem>
+    </variant>
+  </variantList>
+</layout>

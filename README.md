@@ -13,5 +13,15 @@ The transfer of the < > keys to the upper right pinky instead of lower left pink
 
 
 
-The files avaliable are a keyboard file for Mac, an AutoHotKey remapper, which I use on Windows, 
-and a xkb file for adding into/usr/share/X11/xkb/symbols/de in ubuntu.
+The files avaliable are a keyboard file for Mac, an AutoHotKey remapper, which I use on Windows.
+
+For Ubuntu:
+
+* append the contents of the ´ColemakDE´ file to your ´de´ file in '/usr/share/X11/xkb/symbols/de'.
+* add the contents of the "ColemakDE\_evdev" file to '/usr/share/X11/xkb/rules/evdev.xml' as the last layout item right before '</layoutList\>
+
+* do 'sudo dpkg-reconfigure xkb-data'
+* delete the xkm files in '/var/lib/xkb'
+
+
+* switch to the ColemakDE keyboard layout
