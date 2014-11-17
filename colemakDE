@@ -36,7 +36,7 @@ xkb_symbols "colemakde" {
     key <AC05>  { [          d,          D,      copyright                 ] };
     key <AC06>  { [          h,          H,    ordfeminine                 ] };
     key <AC07>  { [          n,          N,         ntilde,        Ntilde  ] };
-    key <AC08>  { [          e,          E                                 ] };
+    key <AC08>  { [          e,          E,       EuroSign,                ] };
     key <AC09>  { [          i,          I,             at                 ] };
     key <AC10>  { [          o,          O                                 ] };
     key <AC11>  { [ odiaeresis, Odiaeresis                                 ] }; 
