@@ -17,11 +17,11 @@ The files avaliable are a keyboard file for Mac, an AutoHotKey remapper, which I
 
 For Ubuntu:
 
-* append the contents of the ´ColemakDE´ file to your ´de´ file in '/usr/share/X11/xkb/symbols/de'.
-* add the contents of the ´ColemakDE\_evdev´ file to ´/usr/share/X11/xkb/rules/evdev.xml´ as the last layout item right before ´</layoutList>´
+* append the contents of the `ColemakDE` file to your `de` file in `/usr/share/X11/xkb/symbols/de`.
+* add the contents of the `ColemakDE\_evdev` file to `/usr/share/X11/xkb/rules/evdev.xml` as the last layout item right before `</layoutList>`
 
-* do 'sudo dpkg-reconfigure xkb-data'
-* delete the xkm files in ´/var/lib/xkb´
+* do `sudo dpkg-reconfigure xkb-data`
+* delete the xkm files in `/var/lib/xkb`
 
 
 * switch to the ColemakDE keyboard layout
