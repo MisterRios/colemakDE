@@ -29,6 +29,7 @@ xkb_symbols "colemakde" {
     key <AD10>  { [ udiaeresis, Udiaeresis                                 ] };
     key <AD11>  { [       less,    greater                                 ] };
 
+    key <CAPS>  { [     Escape                                             ] };
     key <AC01>  { [          a,          A,          aring,          Aring ] };
     key <AC02>  { [          r,          R                                 ] }; 
     key <AC03>  { [          s,          S                                 ] }; 
