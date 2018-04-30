@@ -16,6 +16,7 @@ xkb_symbols "colemakde" {
     key <AE07>  { [          7,      slash,            bar,      backslash ] };
     key <AE08>  { [          8,  parenleft,      braceleft,     asciitilde ] };
     key <AE09>  { [          9, parenright,     braceright                 ] };
+    key <AE12>	{ [      acute,      grave,     dead_acute,     dead_grave ] };
 
     key <AD01>  { [          q,          Q,  guillemotleft, guillemotright ] };
     key <AD02>  { [          w,          W,          aring,          Aring ] };
